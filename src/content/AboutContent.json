@@ -1,16 +1,34 @@
-{
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
-  "section": [
-    {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
-      "icon": "notes.svg"
-    },
-    {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
-      "icon": "notes.svg"
-    }
-  ]
-}
+[
+  {
+    "title": "Molla",
+    "text": "Molla is a full-stack e-commerce website created on Mern stack technologies. We use the most recent technology and include Json web token (JWT) for authentication and authorization requests.",
+    "section": [
+      {
+        "title": "Tech-stacks",
+        "content": "React ,Styled-components, Node-js , MongoDb , Express",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Role",
+        "content": "Full-Stack/Mern-Stack",
+        "icon": "notes.svg"
+      }
+    ]
+  },
+  {
+    "title": "Find Trend",
+    "text": "FindTrend is a responsive landing page to see the week's and current date's most popular news",
+    "section": [
+      {
+        "title": "Tech-stacks",
+        "content": "Next-js , Tailwind css",
+        "icon": "notes.svg"
+      },
+      {
+        "title": "Role",
+        "content": "Lead Front-end Developer",
+        "icon": "notes.svg"
+      }
+    ]
+  }
+]

@@ -1,12 +1,12 @@
 {
-  "title": "Landing page template for developers & startups",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "title": "Hey I'M HenokI MAKE THINGS FOR THE WEB.",
+  "text": "Languages: Javascript, Typescript, Java, Python, HTML/CSS, NodeJS, Postgres, Graphql, MongoDB, React, Next.js, Styled Components, Tailwind,Git/Github, Docker, Firebase, Github actions",
   "button": [
     {
-      "title": "Explore"
+      "title": "Download Cv"
     },
     {
-      "title": "Learn more",
+      "title": "Explore",
       "color": "#fff"
     }
   ]
