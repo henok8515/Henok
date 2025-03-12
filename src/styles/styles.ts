@@ -52,14 +52,28 @@ export const Styles = createGlobalStyle`
     }
 
     h1,
-    h2,
     h3,
     h4,
     h5,
     h6 {
+        margin: 0;
         font-family: 'Motiva Sans Bold', serif;
         color: #18216d;
         font-size: 56px;
+        line-height: 1.18;
+
+        @media only screen and (max-width: 890px) {
+          font-size: 47px;
+        }
+      
+        @media only screen and (max-width: 414px) {
+          font-size: 32px;
+        }
+    }
+    h2{
+                font-family: 'Motiva Sans Bold', serif;
+        color: #18216d;
+        font-size: 36px;
         line-height: 1.18;
 
         @media only screen and (max-width: 890px) {

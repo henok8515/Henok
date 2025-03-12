@@ -1,6 +1,5 @@
 {
-    "title": "Introduce your product quickly & effectively",
-    "text": "Landy comes with multi-lingual support, all of the content is stored in the JSON files, so that you can manage the texts without having any prior knowledge in developing web applications using React.js.",
-    "button": "Get started"
-  }
-  
+  "title": "About Me",
+  "text": "Hi, I'm Henok. A Software Engineer/React Developer with 2+ years of professional experience developing and maintaining web applications. I have a passion for front-end development. I specialize in Javascript, ReactOver the past year, I was fortunate enough to work with clients all around the world across different industries helping them build scalable apps. I pride myself on the quality of my work and my eagerness to learn. My goal is to create as many happy customers and learn as much from them in this ever-advancing field..",
+  "button": "Get started"
+}
